@@ -44,6 +44,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. U
    GitHub | LinkedIn | Instagram
 
 ⌨️ com 💜 por Luiz Santiago
+[Baixe o eBook TypeScript Master](https://github.com/luizsant/ebookMaster/blob/main/output/TypeScript-Master.pdf)
+
 
 ---
 
